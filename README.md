@@ -1,4 +1,16 @@
-## Hi there 👋
+## 👋 Hi, I'm Kenan!
+
+I'm a Junior student at KFUPM, studying Software Engineering, passionate about Software Projects Development!
+
+ What I'm Working On
+- 🧑‍💻 Currently developing [Momentive](https://github.com/KenanKaddoura/momentive-v1-jetpack-compose) (Jetpack Compose) and Evently Web App.
+- 🚀 Expanding my skills in Mobile & Web Application Development.
+- 🤝 Open to collaborating on mobile app projects using Kotlin (native) or Flutter (multiplatform).
+
+Let's connect and build something great together! 🚀
+
+
+
 
 <!--
 **KenanKaddoura/KenanKaddoura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
