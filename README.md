@@ -2,7 +2,7 @@
 
 I'm a Junior student at KFUPM, studying Software Engineering, passionate about Software Projects Development!
 
- What I'm Working On
+🍵 What I'm Working On
 - 🧑‍💻 Currently developing [Momentive](https://github.com/KenanKaddoura/momentive-v1-jetpack-compose) (Jetpack Compose) and Evently Web App.
 - 🚀 Expanding my skills in Mobile & Web Application Development.
 - 🤝 Open to collaborating on mobile app projects using Kotlin (native) or Flutter (multiplatform).
