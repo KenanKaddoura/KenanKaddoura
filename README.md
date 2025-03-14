@@ -12,13 +12,6 @@ I'm a Junior student at KFUPM, studying Software Engineering, passionate about S
 Let's connect and build something great together! 🚀
 
 
-![image](https://github.com/user-attachments/assets/283c5957-3404-4a92-ad5e-6d6282a4ea7c)
-
-![image](https://github.com/user-attachments/assets/3d7b8f35-301e-4c8d-a8c5-cc470e423d86)
-
-![Screenshot 2025-03-02 150805](https://github.com/user-attachments/assets/3bd70c59-35d7-4697-9cb9-3b09c8ba88c2)
-
-
 
 
 <!--
