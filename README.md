@@ -24,7 +24,7 @@ I led the team and built the full-stack **Ground Control Station (Python)** — 
 <details>
 <summary><b>📊 See the full project poster</b></summary>
 <br>
-![Sky Guards project poster](assets/sky-guards-poster.png)
+[![Sky Guards project poster](assets/sky-guards-poster.png)]
  
 </details>
 ---
