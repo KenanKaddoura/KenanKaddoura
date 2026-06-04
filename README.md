@@ -18,9 +18,9 @@ I like shipping things people actually use — and the messy product decisions t
 ## 📱 Diet Loop
  
 A food-subscription app I build and maintain as a Full-Stack Mobile Engineer: 
-- Flutter user app,
-- Kotlin restaurant app,
-- Node.js backend.
+- Flutter User App,
+- Kotlin Restaurant App,
+- Node.js Backend.
 - Live on Google Play:
  
 [<img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" height="56" alt="Get it on Google Play">](https://play.google.com/store/apps/details?id=com.dietstationapp)
