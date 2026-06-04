@@ -48,7 +48,7 @@ It supports key features, including:
 * Live Drone States & Map
 * Define Protection Area
 * Redistribution
-* RTH when battery < 15%
+* Return-To-Home when battery < 15%
 * **Shared Probability Grid Map** that routes the swarm for maximum area coverage.
 
 ### Sky Guards - GCS: 
