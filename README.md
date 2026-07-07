@@ -8,7 +8,7 @@ Software Engineering graduate (KFUPM '26), currently building full-stack mobile 
 
 I like shipping things people actually use — and the messy product decisions that get them there.
  
-🎯 Open to **Product Engineer** roles &nbsp;·&nbsp; 📍 Dammam, KSA / Remote
+🎯 Open to **Full-Stack Software EngineerProduct Engineer** roles &nbsp;·&nbsp; 📍 Dammam, KSA / Remote
  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kenan-kaddoura/)
 
