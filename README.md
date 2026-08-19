@@ -29,7 +29,7 @@ Four surfaces, one product: User app (Flutter), Restaurant app (Kotlin), Admin p
 #### User App (Flutter): 
 
 <p align="center">
-  <img src="assets/Image.jpeg" alt="Diet Loop user app screens"/>
+  <img src="assets/user_app_screens.jpeg" alt="Diet Loop user app screens"/>
 </p>
 
 #### Restaurant App (Kotlin): 
@@ -41,7 +41,7 @@ Four surfaces, one product: User app (Flutter), Restaurant app (Kotlin), Admin p
 #### Admin App (Angular):  
 
 <p align="center">
-  <img src="assets/Image.jpeg" alt="Diet Loop user app screens"/>
+  <img src="assets/admin_app_screens.png" alt="Diet Loop admin app screens"/>
 </p>
 
 ### Barri Solutions, Orders Management Redesign
@@ -53,11 +53,11 @@ Four separate pages, unified into one order centric workflow.
 * Built the frontend in Angular (TypeScript, RxJS) against a .NET and C# service layer; optimized queries for sub second latency on real time dashboards.
 
 <p align="center">
-  <img src="assets/barri_redesign.jpg" alt="Barri orders management redesign, unified dashboard and single order view" width="700"/>
+  <img src="assets/barri_app_screens.png" alt="Barri orders management redesign, unified dashboard and single order view"/>
 </p>
 
 ### Sky Guards, Cooperative UAV Swarm
-**Project & Software Lead, Aug 2025 to May 2026**
+**Project & Software Lead, Aug 2025 to May 2026**   
 Multidisciplinary senior capstone (EE, COE, ICS, SWE). Six engineers, one system: patrol, detect, and localize hostile drones.
 
 * Led the team end to end: originated the concept, recruited six engineers across four departments, ran the meeting cadence, unblocked subteams.
@@ -66,10 +66,10 @@ Multidisciplinary senior capstone (EE, COE, ICS, SWE). Six engineers, one system
 * Results: 8,500 SAR total build, 5 minute deployment, 24 minute flight, YOLO26s detection at 0.95 precision, 0.95 recall, 0.97 mAP@0.5.
 
 <p align="center">
-  <img src="assets/sky_guards_gcs.jpg" alt="Sky Guards Ground Control Station" width="700"/>
+  <img src="assets/GCS%202.png" alt="Sky Guards Ground Control Station"/>
 </p>
 <p align="center">
-  <img src="assets/sky_guards_spgm.jpg" alt="Shared Probability Grid Map, routing algorithm comparison" width="700"/>
+  <img src="assets/SPGM%20Comparison%203%20Alogrithms.png" alt="Shared Probability Grid Map, routing algorithm comparison"/>
 </p>
 
 ---
