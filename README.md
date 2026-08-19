@@ -71,6 +71,17 @@ Multidisciplinary senior capstone (EE, COE, ICS, SWE). Six engineers, one system
 <p align="center">
   <img src="assets/SPGM%20Comparison%203%20Alogrithms.png" alt="Shared Probability Grid Map, routing algorithm comparison"/>
 </p>
+ 
+**▶️ [Watch A Demo Video](https://www.youtube.com/watch?v=5gTlGVEdDx0)**
+
+<br>
+ 
+<details>
+<summary><b>📊 See the full project poster</b></summary>
+<br>
+<img src="assets/sky-guards-poster.png" alt="Sky Guards project poster" width="100%">
+</details>
+
 
 ---
 
