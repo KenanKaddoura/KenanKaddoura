@@ -9,7 +9,7 @@ Currently deepening computer vision and edge AI: building my own detector, track
 
 ## About
 
-I own features end to end: UI, API, data model, and rollout, across Flutter, Kotlin, Angular, and Node.js.
+I own features end to end: UI, API, data model, and rollout, across Flutter, Kotlin, Angular, and Node.js.   
 Outside client work I lead and build systems from zero, most recently a two drone autonomous swarm that detects and localizes hostile drones with onboard inference under 50 milliseconds.
 
 Most of what I ship lives in private, company owned repositories, so this page works as a project brief instead of a repo list: real products, real screens, real numbers, in place of a stars and forks feed.
@@ -19,7 +19,7 @@ Most of what I ship lives in private, company owned repositories, so this page w
 ## Selected Work
 
 ### Diet Loop, Food Subscription Ecosystem
-**Full Stack Software Engineer, Dec 2025 to present**
+**Full Stack Software Engineer, Dec 2025 to present**   
 Four surfaces, one product: User app (Flutter), Restaurant app (Kotlin), Admin platform (Angular), backend on Node.js and MongoDB. Live on Google Play and the App Store.
 
 * Own 10+ production features end to end: OTP auth, subscription and payment flows, orders and meals scheduling.
