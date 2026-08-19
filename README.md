@@ -26,12 +26,26 @@ Four surfaces, one product: User app (Flutter), Restaurant app (Kotlin), Admin p
 * Built the admin subscription flow: live Saudi phone validation, conflict checks against active plans, one form resolving duration, meals, snacks, and pricing.
 * Refactored REST endpoints to return purpose scoped response shapes instead of full model dumps, cutting payload size across all four clients.
 
+#### User App (Flutter): 
+
+<p align="center">
+  <img src="assets/Image.jpeg" alt="Diet Loop user app screens"/>
+</p>
+
+#### Restaurant App (Kotlin): 
+
+<p align="center">
+<img src="assets/restaurant_app_screens.jpeg" alt="Diet Loop restaurant app screens"/>
+</p>
+
+#### Admin App (Angular):  
+
 <p align="center">
   <img src="assets/Image.jpeg" alt="Diet Loop user app screens"/>
 </p>
 
 ### Barri Solutions, Orders Management Redesign
-**Full Stack Software Engineer Intern, Jun 2025 to Aug 2025**
+**Full Stack Software Engineer Intern, Jun 2025 to Aug 2025**   
 Four separate pages, unified into one order centric workflow.
 
 * Ran a five person Design Sprint with business stakeholders and prototyped in Figma.
