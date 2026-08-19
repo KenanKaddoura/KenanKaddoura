@@ -22,7 +22,7 @@ Most of what I ship lives in private, company owned repositories, so this page w
 **Full Stack Software Engineer, Dec 2025 to present**   
 Four surfaces, one product: User app (Flutter), Restaurant app (Kotlin), Admin platform (Angular), backend on Node.js and MongoDB. Live on Google Play and the App Store.
 
-* Own 10+ production features end to end: OTP auth, subscription and payment flows, orders and meals scheduling.
+* Own 10+ production features end to end, such as: OTP auth, subscriptions, payments, plans, meal categories, orders, and scheduling.
 * Built the admin subscription flow: live Saudi phone validation, conflict checks against active plans, one form resolving duration, meals, snacks, and pricing.
 * Refactored REST endpoints to return purpose scoped response shapes instead of full model dumps, cutting payload size across all four clients.
 
