@@ -27,7 +27,7 @@ Four surfaces, one product: User app (Flutter), Restaurant app (Kotlin), Admin p
 * Refactored REST endpoints to return purpose scoped response shapes instead of full model dumps, cutting payload size across all four clients.
 
 <p align="center">
-  <img src="assets/Image.jpeg" alt="Diet Loop user app screens" width="420"/>
+  <img src="assets/Image.jpeg" alt="Diet Loop user app screens"/>
 </p>
 
 ### Barri Solutions, Orders Management Redesign
