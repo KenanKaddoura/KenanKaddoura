@@ -82,7 +82,6 @@ Multidisciplinary senior capstone (EE, COE, ICS, SWE). Six engineers, one system
 | **Backend** | Node.js, Python (Flask), C# and .NET, REST APIs, MVC |
 | **Data** | MongoDB, PostgreSQL, MySQL |
 | **Tooling** | Git and GitHub, Docker, Figma, Design Sprints |
-| **In progress** | PyTorch, Ultralytics YOLO, ONNX, TensorRT, Unreal Engine (synthetic data) |
 
 ---
 
