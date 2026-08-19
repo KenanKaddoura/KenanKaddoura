@@ -1,8 +1,9 @@
 # Kenan Kaddoura
 
-Full stack software engineer. I build production features at Diet Loop, and I previously led Sky Guards, a six person robotics team that shipped an autonomous drone detection swarm.
+Full stack software engineer.  
+I build production features at Diet Loop, and I previously led Sky Guards, a six person robotics team that shipped an autonomous drone detection swarm.
 
-📍 Eastern Province, Saudi Arabia • ✉️ [kenangazwan@gmail.com](mailto:kenangazwan@gmail.com) • 💼 [LinkedIn](#) • 📄 [Resume](docs/Kenan_Kaddoura_Resume.pdf)
+📍 Eastern Province, Saudi Arabia • ✉️ [kenangazwan@gmail.com](mailto:kenangazwan@gmail.com) • 💼 [LinkedIn](https://www.linkedin.com/in/kenan-kaddoura) • 📄 [Resume](https://drive.google.com/file/d/1Yn1vwnOAbtj5JoKnl4YfpWoFFxTq3v2A/view?usp=share_link)
 
 ---
 
