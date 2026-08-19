@@ -93,7 +93,7 @@ A senior capstone that grew into a six engineer team across four departments, wh
 | **Frontend** | React, Angular, TypeScript, Flutter and Dart, Kotlin, Tailwind CSS, Bootstrap |
 | **Backend** | Node.js, Python (Flask), C# and .NET, REST APIs, MVC |
 | **Data** | MongoDB, PostgreSQL, MySQL |
-| **Tooling** | Git and GitHub, Docker, Figma, Design Sprints |
+| **Tooling** | Git & GitHub, Bitrise, Docker, Figma, Design Sprints |
 
 ---
 
