@@ -44,6 +44,8 @@ Four surfaces, one product: User app (Flutter), Restaurant app (Kotlin), Admin p
   <img src="assets/admin_app_screens.png" alt="Diet Loop admin app screens"/>
 </p>
 
+---
+
 ### Barri Solutions, Orders Management Redesign
 **Full Stack Software Engineer Intern, Jun 2025 to Aug 2025**   
 Four separate pages, unified into one order centric workflow.
@@ -55,6 +57,8 @@ Four separate pages, unified into one order centric workflow.
 <p align="center">
   <img src="assets/barri_app_screens.png" alt="Barri orders management redesign, unified dashboard and single order view"/>
 </p>
+
+---
 
 ### Sky Guards, Cooperative UAV Swarm
 **Project & Software Lead, Aug 2025 to May 2026**   
