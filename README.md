@@ -24,7 +24,18 @@ I work across the stack, web, mobile, backend, UI and UX, because each layer tel
 
 A food subscription platform live on Google Play and the App Store, built across four codebases I work in day to day: Flutter for the user app, Kotlin for the restaurant app, Angular for the admin console, Node.js and MongoDB underneath.
 
-#### User App (Flutter)
+#### User App (Flutter) 
+<table align="center">
+<tr>
+<td align="center" valign="middle">
+<a href="https://play.google.com/store/apps/details?id=com.dietstationapp"><img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" height="56" alt="Get it on Google Play"></a>
+</td>
+<td align="center" valign="middle">
+<a href="https://apps.apple.com/app/diet-loop/id6503246236"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&releaseDate=YOUR_RELEASE_DATE" height="56" alt="Download on the App Store"></a>
+</td>
+</tr>
+</table>
+
 * OTP login and account management
 * Multi restaurant browsing with weekly and monthly subscription plans
 * Order tracking, plan renewal, and a calorie calculator
