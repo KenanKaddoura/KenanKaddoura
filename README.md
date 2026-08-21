@@ -71,6 +71,8 @@ Order management was spread across four separate pages that mirrored the databas
   <img src="assets/barri_app_screens.png" alt="Barri orders management redesign, unified dashboard and single order view"/>
 </p>
 
+---
+
 ### Sky Guards, Cooperative UAV Swarm
 **Project & Software Lead, Aug 2025 to May 2026**
 
