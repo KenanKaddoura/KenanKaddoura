@@ -11,7 +11,7 @@ I build production features at Diet Loop, and I previously led Sky Guards, a six
 
 I like thinking in problems and solutions, not just code and features: shaping an idea, sketching user flows, prototyping, then building and refining it until it works for real users. The software, the domain, and the business all matter to me equally.
 
-I prefer to build things that work, then make them better. Sometimes that is a full product from scratch; other times it is the one detail that changes the whole experience. Lately that has looked like shipping a dual app food delivery product to Google Play, building dashboards inside a startup design sprint, and leading a team of six engineers on an autonomous drone swarm with a custom ground control station.
+I prefer to build things that work, then make them better. Sometimes that is a full product from scratch; other times it is the one detail that changes the whole experience. Lately that has looked like shipping a dual app food delivery product to App Store & Google Play, building dashboards inside a startup design sprint, and leading a team of six engineers on an autonomous drone swarm with a custom ground control station.
 
 I work across the stack, web, mobile, backend, UI and UX, because each layer tells part of the story, and I like that story to stay fast, simple, and meaningful.
 
